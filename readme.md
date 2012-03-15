@@ -1,7 +1,7 @@
 Chef-solo and Knife-solo
 ========================
 
-Install knif-solo
+Install knife-solo
 
     gem install knife-solo
     gem install knife-ec2
